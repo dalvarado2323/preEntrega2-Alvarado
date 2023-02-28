@@ -1,0 +1,76 @@
+.logo {
+    width: 300px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: center;
+
+
+}
+
+
+
+header {
+    font-family: 'Comic Neue', cursive;
+    font-size: 150%;
+    color: white;
+
+}
+
+
+
+.img-fluid {
+
+
+    object-fit: cover;
+}
+
+.colorfondo {
+    background-color: pink;
+
+}
+
+.btnpropio {
+    background-color: pink;
+}
+
+.btnhambur {
+    background-color: white;
+
+}
+
+
+
+body {
+    font-family: 'Comic Neue', cursive;
+    color: black;
+}
+
+
+.contenedordeterapeutas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.contenedorregistro {
+    margin-block-end: 200px;
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.contendorlistaordenada {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.contenedorvideopinstructivo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-end;
+}
